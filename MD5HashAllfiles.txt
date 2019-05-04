@@ -1,44 +1,31 @@
- Directory of C:\msys64\home\mail\GraftNetwork\build\release\bin
+*** Latest Windows Build Graftnetwork 1.7.7
 
-20/03/2019  10:35 PM    <DIR>          .
-20/03/2019  10:35 PM    <DIR>          ..
-20/03/2019  10:36 PM        14,331,019 graft-blockchain-export.exe
-20/03/2019  10:34 PM        14,941,527 graft-blockchain-import.exe
-20/03/2019  10:25 PM        25,857,894 graft-supernode.exe
-20/03/2019  10:27 PM        21,266,180 graft-wallet-cli.exe
-20/03/2019  10:07 PM        21,614,067 graft-wallet-rpc.exe
-20/03/2019  10:32 PM        21,453,067 graftnoded.exe
-               6 File(s)    119,463,754 bytes
-               2 Dir(s)  85,389,942,784 bytes free
-
-C:\msys64\home\mail\GraftNetwork\build\release\bin>certutil -hashfile graft-blockchain-export.exe MD5
+E:\graftcli\1.7.7>certutil -hashfile graft-blockchain-export.exe MD5
 MD5 hash of graft-blockchain-export.exe:
-fcd3616c44d934de91a232b8e3c3049b
+9114adfd0a7d9ada342e7078236fcd11
 CertUtil: -hashfile command completed successfully.
 
-C:\msys64\home\mail\GraftNetwork\build\release\bin>certutil -hashfile graft-blockchain-import.exe MD5
+E:\graftcli\1.7.7>certutil -hashfile graft-blockchain-import.exe MD5
 MD5 hash of graft-blockchain-import.exe:
-498d7bfb1c61e55bada3e3fa8f0c0423
+82637b95a6c0934f6edc4311f675d171
 CertUtil: -hashfile command completed successfully.
 
-C:\msys64\home\mail\GraftNetwork\build\release\bin>certutil -hashfile graft-supernode.exe MD5
+E:\graftcli\1.7.7>certutil -hashfile graft-supernode.exe MD5
 MD5 hash of graft-supernode.exe:
-d7ec923a9753760beab0809145455116
+604f9aa39f658c4094d879378a04a4ba
 CertUtil: -hashfile command completed successfully.
 
-C:\msys64\home\mail\GraftNetwork\build\release\bin>certutil -hashfile graft-wallet-cli.exe MD5
+E:\graftcli\1.7.7>certutil -hashfile graft-wallet-cli.exe MD5
 MD5 hash of graft-wallet-cli.exe:
-09db7a97ec9be3964df371a5f2eb52e8
+5dd04cc09139d60168b592a00148c578
 CertUtil: -hashfile command completed successfully.
 
-C:\msys64\home\mail\GraftNetwork\build\release\bin>certutil -hashfile graft-wallet-rpc.exe MD5
+E:\graftcli\1.7.7>certutil -hashfile graft-wallet-rpc.exe MD5
 MD5 hash of graft-wallet-rpc.exe:
-53621557011f0c5213ae43d5fd42bce2
+84f6ea399e7b19f481c036b9f7e43090
 CertUtil: -hashfile command completed successfully.
 
-C:\msys64\home\mail\GraftNetwork\build\release\bin>certutil -hashfile graftnoded.exe MD5
+E:\graftcli\1.7.7>certutil -hashfile graftnoded.exe MD5
 MD5 hash of graftnoded.exe:
-6d8872b284978c719ac0c8d940195b44
+7309fb4b73f6a0ffd7463db0e98e6cdc
 CertUtil: -hashfile command completed successfully.
-
-C:\msys64\home\mail\GraftNetwork\build\release\bin>
